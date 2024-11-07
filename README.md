@@ -1,6 +1,6 @@
-RICHARD PADILLA - CORRECION DEL EXAMEN E1 - B1
-LINK DEL VIDEO: https://youtu.be/fV4g3xml7JU
-CAPTURAS DE LA CORRECION: 
+RICHARD PADILLA - CORRECION DEL EXAMEN E1 - B1 <br>
+LINK DEL VIDEO: https://youtu.be/fV4g3xml7JU <br>
+CAPTURAS DE LA CORRECION: <br>
 
 ![image](https://github.com/user-attachments/assets/3efc1d37-3295-4d7d-8747-facf1dec82e6)
 
